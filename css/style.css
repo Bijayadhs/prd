@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background: #dff9fb;
+    font-family: "Lemonada", sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.logo {}
+
+h1 {
+    color: #eb4d4b;
+    font-size: 3em;
+}
+
+p {
+    color: #ff7979;
+    font-family: "Dancing Script", cursive;
+    font-size: 2em;
+}
